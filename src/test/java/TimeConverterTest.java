@@ -1,5 +1,3 @@
-import converter.distance.DistanceConverter;
-import converter.distance.DistanceUnit;
 import converter.time.TimeConverter;
 import converter.time.TimeUnit;
 import org.junit.Test;
@@ -16,7 +14,7 @@ public class TimeConverterTest {
     @Test
     public void TestTimeConverter1() {
         Double expected = 67d;
-        Map<String, Double> conversions = new TimeConverter().convert(expected, TimeUnit.H );
+        Map<String, Double> conversions = new TimeConverter().convert(expected, TimeUnit.H);
 
         Double h = conversions.get("h");
         assertEquals(expected, h);
