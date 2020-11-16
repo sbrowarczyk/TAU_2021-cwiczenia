@@ -1,0 +1,72 @@
+[2020-11-16 20:43:39] Chrome: Początek testu procesu zakupowego Cyberpunka2077 
+[2020-11-16 20:43:47] Chrome: Wejście na stronę: https://www.cyberpunk.net/pl/pl/ 
+[2020-11-16 20:43:52] Chrome: Przejście przez etapy zamówienia. Wybranie opcji zakupu wersji pudełkowej na PC w Empiku 
+[2020-11-16 20:44:00] Chrome: Zmiana karty na stronę: https://www.empik.com/cyberpunk-2077-cd-projekt-red,p1228493748,multimedia-p 
+[2020-11-16 20:44:02] Chrome: Dodanie Cyberpunka do koszyka 
+[2020-11-16 20:44:12] Chrome: Dodanie do koszyka pozycji z sekcji proponowane 
+[2020-11-16 20:44:21] Chrome: Potwierdzenie zakupu. Przejście na  https://www.empik.com/koszyk/logowanie?continue=/koszyk/dostawa-i-platnosc 
+[2020-11-16 20:44:28] Chrome: Powrót na : https://www.empik.com/koszyk 
+[2020-11-16 20:44:34] Chrome: Usunięcie obydwóch pozycji z koszyka  
+[2020-11-16 20:44:34] Chrome: Koniec testu procesu zakupowego Cyberpunka2077 
+ 
+[2020-11-16 20:44:46] Firefox: Początek testu procesu zakupowego Cyberpunka2077 
+[2020-11-16 20:44:53] Firefox: Wejście na stronę: https://www.cyberpunk.net/pl/pl/ 
+[2020-11-16 20:45:01] Firefox: Przejście przez etapy zamówienia. Wybranie opcji zakupu wersji pudełkowej na PC w Empiku 
+[2020-11-16 20:45:01] Firefox: Zmiana karty na stronę: about:blank 
+[2020-11-16 20:45:11] Firefox: Dodanie Cyberpunka do koszyka 
+[2020-11-16 20:45:34] Firefox: Dodanie do koszyka pozycji z sekcji proponowane 
+[2020-11-16 20:45:43] Firefox: Potwierdzenie zakupu. Przejście na  https://www.empik.com/koszyk/logowanie?continue=/koszyk/dostawa-i-platnosc 
+[2020-11-16 20:45:50] Firefox: Powrót na : https://www.empik.com/koszyk 
+[2020-11-16 20:45:57] Firefox: Usunięcie obydwóch pozycji z koszyka  
+[2020-11-16 20:45:57] Firefox: Koniec testu procesu zakupowego Cyberpunka2077 
+ 
+[2020-11-16 20:46:00] Opera: Początek testu procesu zakupowego Cyberpunka2077 
+[2020-11-16 20:46:10] Opera: Wejście na stronę: https://www.cyberpunk.net/pl/pl/ 
+[2020-11-16 20:46:14] Opera: Przejście przez etapy zamówienia. Wybranie opcji zakupu wersji pudełkowej na PC w Empiku 
+[2020-11-16 20:46:24] Opera: Zmiana karty na stronę: https://www.empik.com/cyberpunk-2077-cd-projekt-red,p1228493748,multimedia-p 
+[2020-11-16 20:46:26] Opera: Dodanie Cyberpunka do koszyka 
+[2020-11-16 20:46:44] Opera: Dodanie do koszyka pozycji z sekcji proponowane 
+[2020-11-16 20:46:52] Opera: Potwierdzenie zakupu. Przejście na  https://www.empik.com/koszyk/logowanie?continue=/koszyk/dostawa-i-platnosc 
+[2020-11-16 20:46:58] Opera: Powrót na : https://www.empik.com/koszyk 
+[2020-11-16 20:47:04] Opera: Usunięcie obydwóch pozycji z koszyka  
+[2020-11-16 20:47:04] Opera: Koniec testu procesu zakupowego Cyberpunka2077 
+ 
+[2020-11-16 20:47:06] Chrome: Początek testu strony eobuwie.com  
+[2020-11-16 20:47:12] Chrome: Wejście na stronę: https://www.eobuwie.com.pl/ 
+[2020-11-16 20:47:13] Chrome: Akceptacja plików cookies 
+[2020-11-16 20:47:20] Chrome: Wyszukanie "trampki" w wyszukiwarce 
+[2020-11-16 20:47:29] Chrome: Zaznaczenie opcji Bordowy i Materiał. Wybranie 2 elementu z listy produktów 
+[2020-11-16 20:47:44] Chrome: Dodanie butów do koszyku, wybranie rozmiaru 41 
+[2020-11-16 20:48:01] Chrome: Przejście na https://www.eobuwie.com.pl/akcesoria/torby-i-plecaki-sportowe/kolor:czarny.html . Wybranie opcji Czarny 
+[2020-11-16 20:48:13] Chrome: Przejście na https://www.eobuwie.com.pl/akcesoria/torby-i-plecaki-sportowe/kolor:czarny.html?order=news_from_date_desc . Wybranie opcji Czarny 
+[2020-11-16 20:48:17] Chrome: Posortowanie po najświeszych produktach 
+[2020-11-16 20:48:23] Chrome: Dodanie plecaka do koszyka. Potwierdzenie zakupu. Przejście na  https://www.eobuwie.com.pl/checkout/cart/ 
+[2020-11-16 20:48:30] Chrome: Powrót na : https://www.eobuwie.com.pl/checkout/cart/ 
+[2020-11-16 20:48:39] Chrome: Koniec testu strony eobuwie.com 
+ 
+[2020-11-16 20:48:46] Firefox: Początek testu strony eobuwie.com  
+[2020-11-16 20:48:48] Firefox: Wejście na stronę: https://www.eobuwie.com.pl/ 
+[2020-11-16 20:48:51] Firefox: Akceptacja plików cookies 
+[2020-11-16 20:49:13] Firefox: Wyszukanie "trampki" w wyszukiwarce 
+[2020-11-16 20:49:21] Firefox: Zaznaczenie opcji Bordowy i Materiał. Wybranie 2 elementu z listy produktów 
+[2020-11-16 20:49:28] Firefox: Dodanie butów do koszyku, wybranie rozmiaru 41 
+[2020-11-16 20:49:48] Firefox: Przejście na https://www.eobuwie.com.pl/akcesoria/torby-i-plecaki-sportowe/kolor:czarny.html . Wybranie opcji Czarny 
+[2020-11-16 20:49:57] Firefox: Przejście na https://www.eobuwie.com.pl/akcesoria/torby-i-plecaki-sportowe/kolor:czarny.html?order=news_from_date_desc . Wybranie opcji Czarny 
+[2020-11-16 20:50:00] Firefox: Posortowanie po najświeszych produktach 
+[2020-11-16 20:50:06] Firefox: Dodanie plecaka do koszyka. Potwierdzenie zakupu. Przejście na  https://www.eobuwie.com.pl/checkout/cart/ 
+[2020-11-16 20:50:14] Firefox: Powrót na : https://www.eobuwie.com.pl/checkout/cart/ 
+[2020-11-16 20:50:20] Firefox: Koniec testu strony eobuwie.com 
+ 
+[2020-11-16 20:50:24] Opera: Początek testu strony eobuwie.com  
+[2020-11-16 20:50:30] Opera: Wejście na stronę: https://www.eobuwie.com.pl/ 
+[2020-11-16 20:50:30] Opera: Akceptacja plików cookies 
+[2020-11-16 20:50:38] Opera: Wyszukanie "trampki" w wyszukiwarce 
+[2020-11-16 20:50:48] Opera: Zaznaczenie opcji Bordowy i Materiał. Wybranie 2 elementu z listy produktów 
+[2020-11-16 20:50:59] Opera: Dodanie butów do koszyku, wybranie rozmiaru 41 
+[2020-11-16 20:51:22] Opera: Przejście na https://www.eobuwie.com.pl/akcesoria/torby-i-plecaki-sportowe/kolor:czarny.html . Wybranie opcji Czarny 
+[2020-11-16 20:51:28] Opera: Przejście na https://www.eobuwie.com.pl/akcesoria/torby-i-plecaki-sportowe/kolor:czarny.html?order=news_from_date_desc . Wybranie opcji Czarny 
+[2020-11-16 20:51:33] Opera: Posortowanie po najświeszych produktach 
+[2020-11-16 20:51:41] Opera: Dodanie plecaka do koszyka. Potwierdzenie zakupu. Przejście na  https://www.eobuwie.com.pl/checkout/cart/ 
+[2020-11-16 20:51:48] Opera: Powrót na : https://www.eobuwie.com.pl/checkout/cart/ 
+[2020-11-16 20:51:55] Opera: Koniec testu strony eobuwie.com 
+ 
