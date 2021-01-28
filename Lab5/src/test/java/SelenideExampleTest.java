@@ -25,7 +25,6 @@ public class SelenideExampleTest {
 
     @Test
     public void checkGoogleSearch() {
-
         open("http://google.com");
         getWebDriver().switchTo().frame(getWebDriver().findElement(byXpath("//iframe[contains(@src, 'consent.google.com')]")));
         $(By.xpath("//form //div[@role = 'button' and @id = 'introAgreeButton']")).pressEnter();
