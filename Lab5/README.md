@@ -1,14 +1,14 @@
-#Selenide
+# Selenide
 
 Biblioteka Selenide służy do tworzenia czytelnych, stabilnych testów automatycznych dla aplikacji webowych w Javie
 oraz większości języków korzystających z JVM. Selenide opakowuje Selenium Web Driver, definując inne,  spójne i
 przejrzyste Api oraz assercje w języku naturalnym.
 
-#####Wymagania:
+##### Wymagania:
 
 JDK >= 11
 
-####Wymagane zależności:
+#### Wymagane zależności:
 ```
 <dependency>
     <groupId>com.codeborne</groupId>
@@ -22,7 +22,7 @@ JDK >= 11
     <scope>test</scope>
 </dependency>
 ```
-####Przykłady: 
+#### Przykłady: 
 W pliku [ SelenideExampleTest.java](src/test/java/SelenideExampleTest.java#27) zawierają się dwa testy
 
 [Test1](src/test/java/SelenideExampleTest.java#27)  
@@ -31,5 +31,5 @@ W pliku [ SelenideExampleTest.java](src/test/java/SelenideExampleTest.java#27) z
 [Test2](src/test/java/SelenideExampleTest.java#39)  
 [Wynik](test-result/reports/SelenideExampleTest/checkOnetIncorrectLoginDataMessage)
 
-####Linki:
+#### Linki:
 https://selenide.org/
